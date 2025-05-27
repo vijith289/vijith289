@@ -26,7 +26,11 @@ You can click the Preview link to take a look at your changes.
 
   <section>
     <h2>About Me</h2>
-    <p>Hey, I'm Vijith M, a gaming enthusiast and bookworm with a knack for communication. When I'm not leveling up in my favorite games, you can find me curled up with a good book or chatting with friends. I'm always up for a conversation, whether it's about the latest game release or a great novel.</p>
+    <p>Hey,My name is Vijith M, and I am currently pursuing a Bachelor of Business Administration in Computer Application. I have a strong interest in the fields of marketing and sales, complemented by core strengths in communication and leadership.
+
+As part of my academic journey, I have completed a comprehensive report on Fun Mall, Coimbatore, and have acquired foundational skills in Microsoft Excel. I am particularly drawn to roles that involve strategic thinking, teamwork, and effective problem-solving.
+
+In addition to my academic pursuits, I actively engage in reading and interactive gaming, which help sharpen my focus and analytical thinking. I am committed to continuous learning and aspire to contribute meaningfully to dynamic and growth-oriented environment.</p>
   </section>
 
   <section>
