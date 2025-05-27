@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vijith289
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in e-commerce platform and computer application 
+- 🌱 I’m currently learning BBA CA 
+- 💞️ I’m looking to collaborate on intership program 
+- 📫 How to reach me viju53648@gmail.com
+- 😄 Pronouns: him 
+- ⚡ Fun fact: I like to play games and travel 
 
 <!---
 vijith289/vijith289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
   <section>
     <h2>About Me</h2>
-    <p>Hey,My name is Vijith M, and I am currently pursuing a Bachelor of Business Administration in Computer Application. I have a strong interest in the fields of marketing and sales, complemented by core strengths in communication and leadership.
+    <p>Hey,My name is Vijith M, and I am currently pursuing a Bachelor of Business Administration in Computer Application. I have a strong interest in the fields of e-commerce platform and computer application, complemented by core strengths in communication and leadership.
 
 As part of my academic journey, I have completed a comprehensive report on Fun Mall, Coimbatore, and have acquired foundational skills in Microsoft Excel. I am particularly drawn to roles that involve strategic thinking, teamwork, and effective problem-solving.
 
